@@ -32,8 +32,14 @@ The schedule is divided into two parts: pre-summer and post-summer, where the fi
 
 Note that this schedule is an overview and will be updated during the course. 
 
-<!-- TODO: add links to Resources weeks -->
-
-
+[w1]: https://github.com/kokchun/Data-engineering-AI22/blob/main/Resources/week1.md
+[w2]: https://github.com/kokchun/Data-engineering-AI22/blob/main/Resources/week2.md
+[w3]: https://github.com/kokchun/Data-engineering-AI22/blob/main/Resources/week3.md
+[w4]: https://github.com/kokchun/Data-engineering-AI22/blob/main/Resources/week4.md
+[w5]: https://github.com/kokchun/Data-engineering-AI22/blob/main/Resources/week5.md
+[w6]: https://github.com/kokchun/Data-engineering-AI22/blob/main/Resources/week6.md
+[w7]: https://github.com/kokchun/Data-engineering-AI22/blob/main/Resources/week7.md
+[w8]: https://github.com/kokchun/Data-engineering-AI22/blob/main/Resources/week8.md
+[w9]: https://github.com/kokchun/Data-engineering-AI22/blob/main/Resources/week9.md
 
 ---
