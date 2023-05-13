@@ -32,4 +32,8 @@ The schedule is divided into two parts: pre-summer and post-summer, where the fi
 
 Note that this schedule is an overview and will be updated during the course. 
 
+<!-- TODO: add links to Resources weeks -->
+
+
+
 ---
