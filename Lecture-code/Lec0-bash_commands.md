@@ -28,6 +28,20 @@ mkdir data/airquality
 ```
 
 ---
+## Take a look at the manual 
+
+Ahh what if I am on an interview or for other reason don't have access to an LLM such as ChatGPT, how should I know all these commands?? 
+
+Check the manual, the old fashion way
+
+```bash
+man ls
+man cd
+man mkdir 
+man <command>
+```
+
+---
 ## Print and format date :date:
 
 Sometimes we want to make a joke and echo :rofl: it to the shell: "Hey siri, call a cab.
