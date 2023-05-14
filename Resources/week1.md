@@ -80,8 +80,18 @@ Go into this link to download and install Docker engine for your OS.
 ---   
 ## Video guides :video_camera:
 
+The video guides are divided into setup, Linux bash and Docker 
+
+### Setup
 - [Python venv with Mac & Linux - C. Shafer (2019)](https://www.youtube.com/watch?v=Kg1Yvry_Ydk)
 - [Python venv with Windows - C. Shafer (2019)](https://www.youtube.com/watch?v=APOPm01BVrk)
+- [Install WSL on windows 10 - DevOps How-Tos (2023)](https://www.youtube.com/watch?v=VkJHRpgJxMY)
+- [Docker installation on Windows 10 - Simplilearn (2021)](https://www.youtube.com/watch?v=5nX8U8Fz5S0)
+
+### Linux bash
+
+
+### Docker
 
 ---
 ## Lecture notes :book:
