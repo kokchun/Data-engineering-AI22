@@ -90,8 +90,28 @@ The video guides are divided into setup, Linux bash and Docker
 
 ### Linux bash
 
+- [60 Linux Commands you NEED to know (in 10 minutes) - NetworkChuck (2022)](https://www.youtube.com/watch?v=gd7BXuUQ91w)
+
+
+Bash Scripting on Linux (The Complete Guide) - Learn Linux TV (2022)
+- [Hello World](https://www.youtube.com/watch?v=boqC9QenshY&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=2)
+- [Variables](https://www.youtube.com/watch?v=uQE_4Q-HZZw&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=3)
+- [While loop](https://www.youtube.com/watch?v=R0tTsdQ_9Vw&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=7)
+- [For loop](https://www.youtube.com/watch?v=HvzI7c3eK5k&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=9)
+
+
 
 ### Docker
+
+This is a good introduction, but in the concepts of Docker but the example is in node.js but it is fine, the principles still applies for you. 
+- [Docker crash course for absolute beginners - Techworld with Nana (2023)](https://www.youtube.com/watch?v=pg19Z8LL06w)
+
+
+This is in Python, hands on, but don't cover much theory 
+- [Containerize Python applications with Docker - Neuralnine (2022)](https://www.youtube.com/watch?v=0TFWtfFY87U)
+
+This is also in Python and here you will get concepts in Docker volumes, Docker compose and more
+- [How to create a great dev environment with Docker - P. Loeber (2023)](https://www.youtube.com/watch?v=0H2miBK_gAk)
 
 ---
 ## Lecture notes :book:
