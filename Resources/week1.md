@@ -120,5 +120,17 @@ This is also in Python and here you will get concepts in Docker volumes, Docker 
 ---
 ## Theory :book:
 
+- [What is a Data Engineer - coursera (2023)](https://www.coursera.org/articles/what-does-a-data-engineer-do-and-how-do-i-become-one)
+- [Data engineer roles and responsibility - simplilearn (2023)](https://www.simplilearn.com/data-engineer-role-article)
+
+- [Data engineering - wikipedia](https://en.wikipedia.org/wiki/Data_engineering)
+- [Extract Transform Load (ETL) - wikipedia](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+- [Concept drift - wikipedia](https://en.wikipedia.org/wiki/Concept_drift)
+- [Pipeline - wikipedia](https://en.wikipedia.org/wiki/Pipeline_(computing))
+
+
+- [Bash programming - w3schools.io](https://www.w3schools.io/terminal/bash-tutorials/)
+- [What is command line interface (CLI) - w3schools](https://www.w3schools.com/whatis/whatis_cli.asp)
+
 ---
 ## Exercises :running:

@@ -16,5 +16,9 @@
 ---
 ## Theory :book:
 
+- [Directed acyclic graph (DAG) - wikipedia](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+- [Data modelling - wikipedia](https://en.wikipedia.org/wiki/Data_modeling)
+  
+
 ---
 ## Exercises :running:
