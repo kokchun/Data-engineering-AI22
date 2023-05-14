@@ -1,4 +1,4 @@
-# Exercise 0 - Linux bash commands
+# Exercise 0 - Bash commands
 
 Use windows for linux (WSL), ubuntu bash or terminal in mac to solve all these exercises, **don’t use GUI**. A lot of the training in these exercises are both to search up commands and also to understand the computer science terminology.
 
