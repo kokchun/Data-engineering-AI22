@@ -130,6 +130,8 @@ Data engineering concepts
 - [Extract Transform Load (ETL) - wikipedia](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 - [Concept drift - wikipedia](https://en.wikipedia.org/wiki/Concept_drift)
 - [Pipeline - wikipedia](https://en.wikipedia.org/wiki/Pipeline_(computing))
+- [Data engineering lifecycle - The operator cencus blog (2022)](https://www.getcensus.com/blog/how-understanding-the-data-engineering-lifecycle-helps-us-all-work-better-with-data-engineers)
+
 
 Linux
 - [Linux - wikipedia](https://sv.wikipedia.org/wiki/Linux)
