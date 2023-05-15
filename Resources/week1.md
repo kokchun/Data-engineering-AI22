@@ -143,7 +143,10 @@ Docker
 - [Docker - wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
 - [Build Python image - Docker docs](https://docs.docker.com/language/python/build-images/)
 - [Docker hub](https://hub.docker.com/_/python)
-- [Docker compose - Docker hub](https://docs.docker.com/compose/gettingstarted/)
+- [Docker compose - Docker docs](https://docs.docker.com/compose/gettingstarted/)
+- [Manage data in Docker - Docker docs](https://docs.docker.com/storage/)
+- [Volumes - Docker docs](https://docs.docker.com/storage/volumes/)
+- [Bind mounts - Docker docs](https://docs.docker.com/storage/bind-mounts/)
 
 
 ---
