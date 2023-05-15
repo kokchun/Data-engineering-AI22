@@ -116,21 +116,35 @@ This is also in Python and here you will get concepts in Docker volumes, Docker 
 ---
 ## Lecture notes :book:
 
+- [Lecture 0 - Bash commands](https://github.com/kokchun/Data-engineering-AI22/blob/main/Lecture-code/Lec0-bash_commands.md)
 
 ---
 ## Theory :book:
 
+Data engineer role
 - [What is a Data Engineer - coursera (2023)](https://www.coursera.org/articles/what-does-a-data-engineer-do-and-how-do-i-become-one)
 - [Data engineer roles and responsibility - simplilearn (2023)](https://www.simplilearn.com/data-engineer-role-article)
 
+Data engineering concepts
 - [Data engineering - wikipedia](https://en.wikipedia.org/wiki/Data_engineering)
 - [Extract Transform Load (ETL) - wikipedia](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 - [Concept drift - wikipedia](https://en.wikipedia.org/wiki/Concept_drift)
 - [Pipeline - wikipedia](https://en.wikipedia.org/wiki/Pipeline_(computing))
 
-
+Linux
+- [Linux - wikipedia](https://sv.wikipedia.org/wiki/Linux)
 - [Bash programming - w3schools.io](https://www.w3schools.io/terminal/bash-tutorials/)
 - [What is command line interface (CLI) - w3schools](https://www.w3schools.com/whatis/whatis_cli.asp)
 
+Docker
+- [Docker - wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
+- [Build Python image - Docker docs](https://docs.docker.com/language/python/build-images/)
+- [Docker hub](https://hub.docker.com/_/python)
+- [Docker compose - Docker hub](https://docs.docker.com/compose/gettingstarted/)
+
+
 ---
 ## Exercises :running:
+
+- [Exercise 0 - Bash commands](https://github.com/kokchun/Data-engineering-AI22/blob/main/Exercises/Exercise0-Bash_commands.md)
+
