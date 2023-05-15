@@ -99,7 +99,8 @@ Bash Scripting on Linux (The Complete Guide) - Learn Linux TV (2022)
 - [While loop](https://www.youtube.com/watch?v=R0tTsdQ_9Vw&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=7)
 - [For loop](https://www.youtube.com/watch?v=HvzI7c3eK5k&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=9)
 
-
+Cron job 
+- [Schedule Python with Cron Job - Tony Teaches Tech (2021)](https://www.youtube.com/watch?v=EgrpfvBc7ks)
 
 ### Docker
 
