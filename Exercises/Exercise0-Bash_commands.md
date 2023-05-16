@@ -169,3 +169,4 @@ Fill in this table. You can do this in any application, it might be too hardcore
 | \*      |                          |                     |
 | ./      |                          |                     |
 | diff    |                          |                     |
+| find    |                          |                     |
