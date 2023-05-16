@@ -132,7 +132,7 @@ i) Now move yourself to the same level, i.e. sibling to data directory. Create a
 
 ---
 
-## X. commands glossary (\*)
+## X. Commands glossary (\*)
 
 Fill in this table. You can do this in any application, it might be too hardcore to do this with terminal only. Tips you can use man command to check documentation. Also try out the different commands to see them in action.
 
