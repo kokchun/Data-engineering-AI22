@@ -5,6 +5,7 @@ Use windows for linux (WSL), ubuntu bash, git bash or terminal in mac to solve a
 **Tips**: work with exercise X alongside with other exercises.
 
 ---
+
 ## 0. Setup a git repository (\*)
 
 a) Make a directory called Linux-training.
@@ -16,6 +17,7 @@ b) Create the files called
 ```
 
 ---
+
 ## 1. Navigating and moving (\*)
 
 a) Make a subdirectory called cool_notes
@@ -35,6 +37,7 @@ g) From here list all files including hidden files
 h) Change name on note3.txt to note_home.txt
 
 ---
+
 ## 2. Printing, variables and manipulating text (\*)
 
 a) Print out “hello from note_home” into bash
@@ -61,6 +64,7 @@ h) Count the number of files in cool_notes
 i) Check the disk usage in your directory and make the format human readable
 
 ---
+
 ## 3. Pokeventure (\*)
 
 a) Create a folder called data with a subfolder called pokemons
@@ -127,6 +131,7 @@ i) Now move yourself to the same level, i.e. sibling to data directory. Create a
 ```
 
 ---
+
 ## X. commands glossary (\*)
 
 Fill in this table. You can do this in any application, it might be too hardcore to do this with terminal only. Tips you can use man command to check documentation. Also try out the different commands to see them in action.
@@ -163,3 +168,4 @@ Fill in this table. You can do this in any application, it might be too hardcore
 | >       |                          |                     |
 | \*      |                          |                     |
 | ./      |                          |                     |
+| diff    |                          |                     |
