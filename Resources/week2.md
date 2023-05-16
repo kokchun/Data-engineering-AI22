@@ -11,9 +11,10 @@
 ---   
 ## Video guides :video_camera:
 
+Setup
 - [Airflow Docker: run Airflow 2.0 in docker container - coder2j (2021)](https://www.youtube.com/watch?v=J6azvFhndLg)
 
-
+Data engineering
 - [A brief history of data engineering - Kahan Data Solutions (2022)](https://www.youtube.com/watch?v=NmWtdM0vqzY&list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO)
 - [How to become a data engineer (with no experience) - Kahan Data Solutions (2022)](https://www.youtube.com/watch?v=ocDG2Y4fjV4&list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO&index=2)
 - [What skills do you need as a data engineer - Kahan Data Solutions (2022)](https://www.youtube.com/watch?v=sF04UxNAvmg&list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO&index=7)
