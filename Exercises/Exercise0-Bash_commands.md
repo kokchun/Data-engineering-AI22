@@ -1,6 +1,6 @@
 # Exercise 0 - Bash commands
 
-Use windows for linux (WSL), ubuntu bash or terminal in mac to solve all these exercises, **don’t use GUI**. A lot of the training in these exercises are both to search up commands and also to understand the computer science terminology.
+Use windows for linux (WSL), ubuntu bash, git bash or terminal in mac to solve all these exercises, **don’t use GUI**. A lot of the training in these exercises are both to search up commands and also to understand the computer science terminology.
 
 **Tips**: work with exercise X alongside with other exercises.
 
