@@ -1,2 +1,2 @@
-# Lecture - Docker compose
+# Lecture 2 - Docker compose
 
