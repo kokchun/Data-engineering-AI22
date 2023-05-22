@@ -1,7 +1,5 @@
 # Data engineering - AI22
 
-# UNDER CONSTRUCTION - DON'T USE THIS REPO YET
-
 The aim of this course is to learn various data engineering concepts both theoretically and through implementations using various technologies. Data engineering is a very important topic where the focus is on ingesting data into a data pipeline and transforming it in different ways to serve and enable downstream works. Ideally roles such as data scientists, data analysts and business intelligence should not worry about where to find data and how to transform it, but instead work in their respective specialist domains.
 
 This course builds upon previous skills in:
