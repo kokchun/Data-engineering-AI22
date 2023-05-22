@@ -1,0 +1,25 @@
+services:
+  python:
+    # to install python 3.11 from Dockerhub
+    #image: python:3.11
+    build: .
+    ports:
+      - "8050:8050"
+    container_name: lecture2
+
+    # bind mounts 1 
+    # volumes: 
+    #   - type: bind 
+    #     source: ./src
+    #     target: /app/src
+
+    # bind mounts 2 - 
+    # volumes:
+    #   - ./src:/app/src
+
+    # adds the name _dice_simulator to the parent folder name as the volume name
+    volumes:
+      - dice_simulator:/app/src/
+
+volumes:
+  dice_simulator:
