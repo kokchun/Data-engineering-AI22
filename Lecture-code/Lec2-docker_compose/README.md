@@ -28,7 +28,7 @@ docker container prune
 
 ---
 
-## Under construction
+## Docker compose
 
 Okay lets start with docker-compose.yaml 
 
@@ -58,23 +58,20 @@ EXPOSE 8050
 CMD ["python", "./src/main.py"]
 ```
 
-Lets go in and 
+Lets now go into the container and check it out, navigate around. Also lets inspect the container. 
 
+---
+## Data persistance
 
-We write our docker comp
+Now we implement a save button on our dash app and try saving files. Try and see that it works locally. 
 
-Topics to include:
-- docker-compose.yaml
-- map ports, service, Dockerfile
-- docker compose up --build 
-- docker compose up
-- docker compose down
-- docker exec <container-name> /bin/bash <!-- from Ubuntu WSL-->
+Now we spin up a container and save file, go into the container to see that it works, which is very coool. Now we shut down the container and spins it up again and with tears in our eyes see that the data has not persisted. 
 
-- download files from dash app go inside of container to look at files
-- go out and shut down container, go in again and see that files are removed 
+So we will test out and implement bind mounts and named volumes. 
 
-- named volumes
-- bind mount
+--- 
+### Bind mounts
+Bind mounts are direct mapping of the host directory to a container, which means we mount a directory or file from host to the container. All changes are reflected directly and visible to both host and container. Bind mount is good for development, but not good when it comes to portability and sharing data between containers.
 
-- after fixed volumes we see that the files persists 
+### Named volumes
+Named volumes on the other hand is good for portability and can share between containers. Data is persisted as in bind mounts, but here it can be accessed by several services. The named volume is managed by docker independently and thus the storage location on the host is not exposed. 
