@@ -6,6 +6,16 @@ Follow instructions in resources to install docker on your machine.
 
 ---
 
+## Warmup settings
+It's good for us to build our virtualenvironment before dockerizing Python apps, so we use 
+
+```bash
+python -m venv venv
+```
+
+Okay so before we dockerize an app we actually surprise surprise need an app. So lets create a dash app that simulates dices, I know not so original but it will be fun :)
+
+
 ## Creating a Python docker container
 
 Okay so you want to create a container. Questions that arise could be what are the dimensions? Colors? Materials? ...
