@@ -55,6 +55,8 @@ python
 
 You can read the documentation for installing WSL here 
 - [WSL documentation - microsoft learn (2023)](https://learn.microsoft.com/en-us/windows/wsl/install)
+- [WSL install if not working](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10)
+- If this doesn't work you can use microsoft store and install wsl and ubuntu latest version.
 
 or simply put, go into powershell and type 
 
