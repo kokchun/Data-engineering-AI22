@@ -18,8 +18,6 @@ touch Dockerfile
 
 Now lets use Python 3.11 as a base image, and create a file called main.py with a short print statement inside.
 
-<!-- TODO: specify Dockerfile -->
-
 ```Dockerfile
 # gets python3.11 image from Dockerhub with their configurations, so we don't have to manually install Python3.11 as we do in our own machine
 FROM python:3.11
