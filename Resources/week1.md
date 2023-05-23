@@ -119,7 +119,7 @@ This is also in Python and here you will get concepts in Docker volumes, Docker 
 ---
 ## Lecture notes :book:
 
-- [Lecture 0 - Bash commands](https://github.com/kokchun/Data-engineering-AI22/blob/main/Lecture-code/Lec0-bash_commands.md)
+- [Lecture 0 - Bash commands](https://github.com/kokchun/Data-engineering-AI22/blob/main/Lecture-code/Lec0-bash/README.md)
 
 ---
 ## Theory :book:
