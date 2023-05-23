@@ -24,7 +24,7 @@ When working data engineering or data science it is nice to have a data director
 
 ```bash 
 # cool that we can create subdirectory from the parent perspective 
-mkdir data/airquality 
+mkdir data\airquality 
 ```
 
 ---
