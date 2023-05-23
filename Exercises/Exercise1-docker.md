@@ -103,7 +103,7 @@ c) Stop your cron schedule and create another script that will output the events
 
 ---
 
-## 2. Pokeiness (*)-(***)
+## 2. Pokeiness (\*)-(\***)
 
 Professor Oak is an expert in pokemons, and have developed a device for measuring a pokemons happiness level. He needs your help in performing a pokexperiment collecting data and visualizing them in a dashboard. As a poke professor he loves structure in his files, use this structure. Note that the pokemons in the pokebelt are example gotten from one run and observations are from transform_load after two runs. 
 
@@ -154,7 +154,7 @@ d) Create a bash script that cleans the pokebelt.
 
 e) Make a cron schedule inside of your container to clean the pokebelt, extracting new pokemons and load observations. 
 
-f) Now make a dashboard showing the different pokemons and their happiness level.
+f) Now make a dashboard showing the different pokemons and their happiness level. Choose a proper graph to show this.
 
 g) As a non technical person professor Oak don't want to manage installations of softwares. Write clear detailed instructions for professor Oak how to use Docker to see the dashboard. This dashboard don't need to handle scheduling and updates. (**)
 
