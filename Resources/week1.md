@@ -120,6 +120,8 @@ This is also in Python and here you will get concepts in Docker volumes, Docker 
 ## Lecture notes :book:
 
 - [Lecture 0 - Bash commands](https://github.com/kokchun/Data-engineering-AI22/blob/main/Lecture-code/Lec0-bash/README.md)
+- [Lecture 1 - Docker](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec1-docker)
+- [Lecture 2 - Docker compose](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec2-docker_compose)
 
 ---
 ## Theory :book:
@@ -150,9 +152,9 @@ Docker
 - [Volumes - Docker docs](https://docs.docker.com/storage/volumes/)
 - [Bind mounts - Docker docs](https://docs.docker.com/storage/bind-mounts/)
 
-
 ---
 ## Exercises :running:
 
 - [Exercise 0 - Bash commands](https://github.com/kokchun/Data-engineering-AI22/blob/main/Exercises/Exercise0-Bash_commands.md)
-
+- [Exercise 1- Docker](https://github.com/kokchun/Data-engineering-AI22/blob/main/Exercises/Exercise1-docker.md)
+- [Exercise 2 - Docker compose](https://github.com/kokchun/Data-engineering-AI22/blob/main/Exercises/Exercise2-docker-compose.md)
