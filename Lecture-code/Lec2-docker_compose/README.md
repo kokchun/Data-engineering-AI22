@@ -10,8 +10,6 @@ In this lecture you will learn
   
 ## Some good commands 
 
-<!-- TODO: exercise to write glossary on these terms-->
-
 ```
 docker compose up -d
 docker compose up --build
