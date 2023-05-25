@@ -71,7 +71,7 @@ a) Create a folder called data with a subfolder called pokemons
 
 b) Create a file called pokemon_list.txt
 
-c) Type in a random list of pokemons, using echo and the bitshift operator
+c) Type in a random list of pokemons, using echo and the bitshift operator (you choose which pokemons).
 
 for example:
 
@@ -83,6 +83,8 @@ mew
 zapdos
 mewtwo
 ```
+
+
 
 d) Loop through your file and print out the following
 
