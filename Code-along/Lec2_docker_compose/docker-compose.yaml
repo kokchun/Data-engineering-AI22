@@ -1,0 +1,8 @@
+services:
+  python:
+    #image: python:3.11
+    build: .
+    ports:
+      - "8050:8050"
+    container_name: lecture2
+
