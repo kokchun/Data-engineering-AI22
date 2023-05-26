@@ -1,4 +1,4 @@
-# Airflow intro
+# Lecture 4 - Airflow intro
 
 Here are some Airflow glossary that could be good to check up:
 
@@ -15,7 +15,7 @@ Here are some Airflow glossary that could be good to check up:
 - metadata database
 - redis
 
-
+---
 ## Setup
 
 Go into this link and follow the instructions to download the docker-compose.yaml
@@ -29,4 +29,19 @@ After you've fetched docker-compose.yaml we clean up the file to get a lightweig
 - remove airflow-triggerer 
 - remove airflow-workers
 
-The instructions and motivations behind these are described in this [blog post](https://datatalks.club/blog/how-to-setup-lightweight-local-version-for-airflow.html). 
+The instructions and motivations behind these are described in this [blog post](https://datatalks.club/blog/how-to-setup-lightweight-local-version-for-airflow.html).
+
+Now we want to choose another image to build, with a specific version of Python, so that we can customize installations. This can be done in a Dockerfile, and specify in docker-compose.yaml to build from this Dockerfile. Docker images for Airflow can be found in [this page](https://airflow.apache.org/docs/docker-stack/index.html).  
+
+Now run this command to initialize airflow
+
+```bash
+docker compose up airflow-init
+```
+
+Go into [localhost:8080](http://localhost:8080/home) and log into airflow using airflow as username and airflow as password. Note that these can be set in docker-compose.yaml but you should do this with an .env file so that it doesn't get tracked and published in a repository available for others. For now we keep the default as it is.
+
+--- 
+## First DAG
+
+Now we will build your first DAG...
