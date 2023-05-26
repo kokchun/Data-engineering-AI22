@@ -25,7 +25,7 @@
 ## Lecture notes :book:
 
 - [Lecture 3 - First ETL pipeline](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec3-ETL_pipeline)
-- 
+- [Lecture 4 - Intro to orchestration with Airflow](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec4-Airflow_intro)
 
 
 ---
@@ -66,6 +66,7 @@ Core concepts
 - [XComs - Airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/xcoms.html)
 
 
-
 ---
 ## Exercises :running:
+
+- TODO: add exercises
