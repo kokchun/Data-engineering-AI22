@@ -24,7 +24,12 @@ The handover can be found in [Lec3-ETL_pipeline](https://github.com/kokchun/Data
 The technical person wants you to dockerize the app so that it's possible to see the dashboard from localhost. Another requirement is that the data is persisted so we don't lose our user data. Then she can take over and deploy the app. Note that you might need to rewrite some parts of the code. 
 
 ---
-## 3. Further explorations
+## 3. Schedule
+
+A non technical person in your team wants to have new users shown in the dashboard and asks you to schedule new set of 5 users every 2 minutes. The technical person says that you can use cron for this.
+
+---
+## 4. Further explorations
 
 Now you have finished with the tasks given to you, try to find other things you can do to expand this code and/or explore the data. You are free to explore it further and impress on the PO and others in the team so that they see you and potentially hire you after the internship is finished.
 
