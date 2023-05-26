@@ -7,6 +7,8 @@
 
 - [Running Airflow in Docker - Airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)
 - [Setup lightweight local version for Airflow - L. Oliveira (2022)](https://datatalks.club/blog/how-to-setup-lightweight-local-version-for-airflow.html)
+- [Docker image for Airflow - Airflow docs](https://airflow.apache.org/docs/docker-stack/index.html)
+
 
 ---   
 ## Video guides :video_camera:
