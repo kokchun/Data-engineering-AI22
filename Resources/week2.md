@@ -57,6 +57,7 @@ Tutorials
 - [Building a running pipeline  - Airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/pipeline.html)
 
 Core concepts
+- [Introduction to Airflow - astronomer](https://docs.astronomer.io/learn/intro-to-airflow)
 - [UI - Airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/ui.html)
 - [BashOperator - Airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/howto/operator/bash.html)
 - [PythonOperator - Airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/howto/operator/python.html)
@@ -66,8 +67,6 @@ Core concepts
 - [Tasks - Airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/tasks.html)
 - [Operators - Airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/operators.html)
 - [XComs - Airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/xcoms.html)
-
-- [Introduction to Airflow - astronomer](https://docs.astronomer.io/learn/intro-to-airflow)
 
 ---
 ## Exercises :running:
