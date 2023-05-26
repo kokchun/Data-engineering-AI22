@@ -24,7 +24,8 @@
 ---
 ## Lecture notes :book:
 
-
+- [Lecture 3 - First ETL pipeline](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec3-ETL_pipeline)
+- 
 
 
 ---
