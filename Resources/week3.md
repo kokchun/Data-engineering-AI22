@@ -16,5 +16,10 @@
 ---
 ## Theory :book:
 
+Core concepts
+- [Airflow core components - astronomer](https://docs.astronomer.io/learn/airflow-components)
+- [Airflow executors - astronomer](https://docs.astronomer.io/learn/airflow-executors-explained)
+- [Airflow metadata database](https://docs.astronomer.io/learn/airflow-database)
+
 ---
 ## Exercises :running:
