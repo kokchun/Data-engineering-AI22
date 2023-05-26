@@ -16,17 +16,17 @@ This course repo contains all lecture codes, lecture slides and exercises.
 
 The schedule is divided into two parts: pre-summer and post-summer, where the first part focuses heavily on theory and core knowledge and the second part you will use what you've learnt to apply in a realistic project.
 
-|   Week   | Content                                                                                                                |
-| :------: | ---------------------------------------------------------------------------------------------------------------------- |
-| [21][w1] | course intro, why data engineering, Linux, data pipelines, docker intro, dockerfile, study visit Ericsson              |
-| [22][w2] | containers, docker-compose, data engineering lifecycle, ETL, Airflow intro, DAGs, operators, tasks, study visit Olsaro |
-| [23][w3] | orchestrating data pipeline, xcom, connect to postgres, serve downstream dashboard and ML                              |
-| [33][w4] | continue ETL and ELT pipeline orchestrating with Airflow, guest lecture agile theory                                   |
-| [34][w5] | **project** start, data version control (DVC), github actions CI/CD, pre-commit                                        |
-| [35][w6] | **project**, Intro to Azure and deploy a pipeline to Azure.                                                            |
-| [36][w7] | **project**, ethics and data security - guest lecture?                                                                 |
-| [37][w8] | **project** - presentation and report                                                                                  |
-| [38][w9] | inspiration: spark, databricks, data lake, data factory, ETL pipeline on Azure. Modern data stack - study visit Knowit |
+|   Week   | Content                                                                                                                   |
+| :------: | ------------------------------------------------------------------------------------------------------------------------- |
+| [21][w1] | course intro, why data engineering, Linux, data pipelines, docker intro, dockerfile, docker compose, study visit Ericsson |
+| [22][w2] | containers, data engineering lifecycle, code review, ETL, Airflow intro, DAGs, operators, tasks, study visit Olsaro       |
+| [23][w3] | orchestrating data pipeline, xcom, connect to postgres, serve downstream dashboard and ML                                 |
+| [33][w4] | continue ETL and ELT pipeline orchestrating with Airflow, guest lecture agile theory                                      |
+| [34][w5] | **project** start, data version control (DVC), github actions CI/CD, pre-commit                                           |
+| [35][w6] | **project**, Intro to Azure and deploy a pipeline to Azure.                                                               |
+| [36][w7] | **project**, ethics and data security - guest lecture?                                                                    |
+| [37][w8] | **project** - presentation and report                                                                                     |
+| [38][w9] | inspiration: spark, databricks, data lake, data factory, ETL pipeline on Azure. Modern data stack - study visit Knowit    |
 
 Note that this schedule is an overview and will be updated during the course.
 
