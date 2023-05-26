@@ -69,4 +69,4 @@ Core concepts
 ---
 ## Exercises :running:
 
-- TODO: add exercises
+- [Exercise 3 - Handover code (ETL)](https://github.com/kokchun/Data-engineering-AI22/blob/main/Exercises/Exercise3-ETL.md)

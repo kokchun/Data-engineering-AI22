@@ -1,4 +1,4 @@
-# Exercise 3 - ETL 
+# Exercise 3 - Handover code (ETL) 
 
 In this exercíse you will get a scenario which unfortunately can happen in industry. 
 
