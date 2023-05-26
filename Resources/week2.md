@@ -6,7 +6,7 @@
 ## Setup :wrench:
 
 - [Running Airflow in Docker - Airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)
-
+- [Setup lightweight local version for Airflow - L. Oliveira (2022)](https://datatalks.club/blog/how-to-setup-lightweight-local-version-for-airflow.html)
 
 ---   
 ## Video guides :video_camera:
@@ -65,6 +65,7 @@ Core concepts
 - [Operators - Airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/operators.html)
 - [XComs - Airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/xcoms.html)
 
+- [Introduction to Airflow - astronomer](https://docs.astronomer.io/learn/intro-to-airflow)
 
 ---
 ## Exercises :running:
