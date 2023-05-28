@@ -15,6 +15,14 @@ Here are some Airflow glossary that could be good to check up:
 - metadata database
 - redis
 
+Here are some good commands to know by heart 
+
+```
+airflow dags list 
+airflow dags test <dag_name> <execution_date>
+airflow tasks test <dag_name> <task_name> <execution_date>
+```
+
 ---
 ## Setup
 
