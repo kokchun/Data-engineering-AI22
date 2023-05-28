@@ -25,7 +25,7 @@ b) Create a Dockerfile with base image Python 3.9 and with the following package
 - dash
 - sklearn
 
-Make sure ex1_0.py runs when the container starts. Also specify the working directory to /Exercise1 inside of the container.
+Make sure ex1_0_setup.py runs when the container starts. Also specify the working directory to /Exercise1 inside of the container.
 
 c) Create a docker image with name ex1-image
 
