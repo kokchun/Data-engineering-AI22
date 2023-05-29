@@ -43,6 +43,8 @@ The instructions and motivations behind these are described in this [blog post](
 
 Now we want to choose another image to build, with a specific version of Python, so that we can customize installations. This can be done in a Dockerfile, and specify in docker-compose.yaml to build from this Dockerfile. Docker images for Airflow can be found in [this page](https://airflow.apache.org/docs/docker-stack/index.html).  
 
+Start by creating a requirements.txt and type in python-dotenv as we're gonna need this package. 
+
 ```docker
 FROM apache/airflow:latest-python3.10
 COPY requirements.txt requirements.txt
@@ -54,9 +56,6 @@ Now run this command to initialize airflow
 ```bash
 docker compose up airflow-init
 ```
-
-Go into [localhost:8080](http://localhost:8080/home) and log into airflow using airflow as username and airflow as password. 
-
 
 ### Docker compose
 
@@ -79,4 +78,8 @@ We don't actually need to install Airflow on venv as it's already installed on t
 --- 
 ## First DAG
 
-Now we will build your first DAG...
+Now we will build your first DAG, [see code here](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec4-Airflow_intro), schedule it and we will go into airflow scheduler in command line and test out the DAG and tasks. Also we will navigate around in the Airflow UI to understand it. 
+
+
+
+
