@@ -80,6 +80,11 @@ We don't actually need to install Airflow on venv as it's already installed on t
 
 Now we will build your first DAG, [see code here](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec4-Airflow_intro), schedule it and we will go into airflow scheduler in command line and test out the DAG and tasks. Also we will navigate around in the Airflow UI to understand it. 
 
-
-
-
+The concepts we go through in this lecture are
+- BashOperator
+- PythonOperator
+- XCom
+- schedule
+- catchup
+- build a DAG
+- navigating and testing DAGs and tasks in scheduler container
