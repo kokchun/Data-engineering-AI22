@@ -45,7 +45,7 @@ Building time
 ```bash
 # builds the image with repository name lec1-docker and tag latest
 # can choose to tag it something else using : e.g. lec1-docker:v1
-docker build -t lec1-image
+docker build -t lec1-image .
 
 # check the image
 docker image ls
