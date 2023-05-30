@@ -5,6 +5,8 @@
 ---
 ## Setup :wrench:
 
+- [Dbeaver](https://dbeaver.io/download/)
+
 ---   
 ## Video guides :video_camera:
 
