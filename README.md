@@ -19,8 +19,8 @@ The schedule is divided into two parts: pre-summer and post-summer, where the fi
 |   Week   | Content                                                                                                                   |
 | :------: | ------------------------------------------------------------------------------------------------------------------------- |
 | [21][w1] | course intro, why data engineering, Linux, data pipelines, docker intro, dockerfile, docker compose, study visit Ericsson |
-| [22][w2] | containers, data engineering lifecycle, code review, ETL, Airflow intro, DAGs, operators, tasks, study visit Olsaro       |
-| [23][w3] | orchestrating data pipeline, xcom, connect to postgres, serve downstream dashboard and ML                                 |
+| [22][w2] | containers, data engineering lifecycle, code review, ETL, Airflow intro, DAGs, operators, tasks, Xcom, study visit Olsaro |
+| [23][w3] | schedule data ingestion, SCB API, orchestrating data pipeline, connect to postgres, serve downstream dashboard and ML     |
 | [33][w4] | continue ETL and ELT pipeline orchestrating with Airflow, guest lecture agile theory                                      |
 | [34][w5] | **project** start, data version control (DVC), github actions CI/CD, pre-commit                                           |
 | [35][w6] | **project**, Intro to Azure and deploy a pipeline to Azure.                                                               |
