@@ -1,13 +1,20 @@
 from airflow.operators.bash import BashOperator
 from airflow import DAG
 from datetime import datetime
+from pathlib import Path
 
-print(datetime.now())
+data_lake_path = Path(__file__).parents[1] / "data" /"datalake"
+
+data_warehouse_path = Path(__file__).parents[1] /"data"/"data_warehouse"
+
+print(data_lake_path)
+
 
 
 with DAG(dag_id = "joke_DAG", start_date=datetime(2023,6,1)):
     say_hello = BashOperator(task_id = "say_hello", bash_command="echo 'hej hej'")
 
-    
+    setup_folders = BashOperator(task_id = "setup_folders", bash_command=f"mkdir -p {data_lake_path} {data_warehouse_path}")
 
-    say_hello
+
+    say_hello >> setup_folders
