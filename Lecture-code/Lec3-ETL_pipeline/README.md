@@ -4,5 +4,9 @@ This lecture is special, here we won't go through the code together, instead you
 
 Also you will have to read more theory and be able to present to stakeholders when asked. In data engineering it is very important to be able to communicate theory and practical implications in a clear way as data engineering can have huge economical impact. It is thus not enough to have LLMs to comment your code, you need to understand how systems work in larger setting and sometimes in detail. LLMs can though be very helpful for you to learn the concepts.
 
+---
+## NOTE
 
-<!-- TODO: link to exercise3 -->
+There is actually a conceptual mistake in this lecture, so it is ELT and not ETL as we extract the data and load it into a datalake, and the transformation happens on the way to the data warehouse. I will not correct this lecture here, but it is left to the reader to understand the mistake and correct them. 
+
+
