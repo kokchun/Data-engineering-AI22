@@ -10,10 +10,17 @@
 ---   
 ## Video guides :video_camera:
 
+- [Airflow XCom - M. Lambert (2021)](https://www.youtube.com/watch?v=8veO7-SN5ZY)
+- [Taskgroup - M. Lambert (2021)](https://www.youtube.com/watch?v=Q_v6BqS8DhA)
+- [DAG dependencies - M. Lambert (2021)](https://www.youtube.com/watch?v=8uKW0mPWmCk)
+- [Airflow sensors - M. Lambert (2022)](https://www.youtube.com/watch?v=fgm3BZ3Ubnw)
+- [Connect Airflow to Postgres - coder2j (2022)](https://www.youtube.com/watch?v=S1eapG6gjLU)
+- [DBeaver connect Postgres - E-MultiSkills Database Tutorials (2022)](https://www.youtube.com/watch?v=zYhv1Dj8Gmw)
 
 ---
 ## Lecture notes :book:
 
+- [Lecture 4 - Intro to orchestration with Airflow](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec4-Airflow_intro)
 
 ---
 ## Theory :book:
@@ -32,3 +39,5 @@ Core concepts
 
 ---
 ## Exercises :running:
+
+- [Exercise 4 - Airflow](https://github.com/kokchun/Data-engineering-AI22/blob/main/Exercises/Exercise4-Airflow.md)
