@@ -19,7 +19,7 @@ Here are some parts that will be covered in week 34, that isn't finished yet
 - connect a machine learning task to predict waiting time for different attractions
 - show the results from this prediction in the dashboard
 
-This part will require a refactoring of the code so it will be in Lec6 instead. 
+This part will require a refactoring of the code so it will be in Lec7 instead. Lec6 is a special lecture as it is Kokchuns last lecture and it will cover SCB data and evaluation of the education. 
 
 
 
