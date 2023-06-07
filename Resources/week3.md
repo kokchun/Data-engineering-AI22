@@ -6,6 +6,8 @@
 ## Setup :wrench:
 
 - [Dbeaver](https://dbeaver.io/download/)
+- [pyscbwrapper github](https://github.com/kirajcg/pyscbwrapper)
+- [SCB API](https://www.scb.se/vara-tjanster/oppna-data/)
 
 ---   
 ## Video guides :video_camera:
@@ -21,6 +23,8 @@
 ## Lecture notes :book:
 
 - [Lecture 4 - Intro to orchestration with Airflow](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec4-Airflow_intro)
+- [Lecture 5 - Airflow_ELT](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec5-Airflow_ELT)
+- [Lecture 6 - SCB data](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec6-SCB)
 
 ---
 ## Theory :book:
@@ -34,7 +38,7 @@ Core concepts
 - [Airflow executors - astronomer](https://docs.astronomer.io/learn/airflow-executors-explained)
 - [Airflow metadata database](https://docs.astronomer.io/learn/airflow-database)
 
-
+Other
 
 
 ---
