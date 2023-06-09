@@ -20,12 +20,23 @@ def _extract_queue_time(theme_park):
 def _transform_stockholm_timezone(task_instance):
     data = task_instance.xcom_pull(task_ids = "extract_liseberg.extract_queue_time")
 
-    
+    for ride in data["rides"]:
+        utc_time = datetime.strptime(ride["last_updated"], "%Y-%m-%dT%H:%M:%S.%fZ")
+        
+        ride["last_updated"] = utc_time.astimezone(stockholm_timezone).strftime("%y%m%d %H%M")
 
+    return data
 
 
 @task_group(group_id="extract_liseberg")
 def extract_queue_time():
     extract_queue_time = PythonOperator(
-        task_id="extract_queue_time", python_callable=_extract_queue_time
+        task_id="extract_queue_time", python_callable=_extract_queue_time, op_args = [theme_parks["asterix"]], do_xcom_push = True
     )
+
+    transform_timezone = PythonOperator(
+        task_id="transform_stockholm_timezone", python_callable=_transform_stockholm_timezone
+    )
+
+    extract_queue_time >> transform_timezone
+
