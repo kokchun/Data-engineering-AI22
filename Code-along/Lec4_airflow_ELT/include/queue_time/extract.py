@@ -20,7 +20,7 @@ def _extract_queue_time(theme_park):
 def _transform_stockholm_timezone(task_instance):
     data = task_instance.xcom_pull(task_ids = "extract_liseberg.extract_queue_time")
 
-    for ride in data["rides"]:
+    for ride in data:
         utc_time = datetime.strptime(ride["last_updated"], "%Y-%m-%dT%H:%M:%S.%fZ")
         
         ride["last_updated"] = utc_time.astimezone(stockholm_timezone).strftime("%y%m%d %H%M")
