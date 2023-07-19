@@ -1,5 +1,3 @@
-
-
 reactions = [
     "Hilarious!",
     "Oh, the humanity!",
