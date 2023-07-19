@@ -1,18 +1,17 @@
-# Exercise - CI/CD Tools
+# Exercise  CI/CD Tools
 
 ## Intro
-To practice coding, we will spend some time to write a program that generates random jokes and reactions to the jokes. We will later apply tools like black and pytest on this program.
+To practice coding, we will spend some time writing a program that generates random jokes and reactions to the jokes. We will later apply tools like Black and pytest to this program.
 
 Switch to your own branch to avoid code conflicts with other students in the class.
 1. Git clone this repository. If you've done this before the summer, do a git pull.
-2. Create a branch `git branch olof-exercise-cicd` but replace olof with your own name.
+2. Create a branch `git branch olof-exercise-cicd`, but replace "olof" with your own name.
 3. Switch to your new branch. `git checkout olof-exercise-cicd`.
-4. Ask for help if you have any problems during this part before mvoing on.
-
+4. Ask for help if you have any problems during this part before moving on.
 
 Use Pyjokes https://pyjok.es/ to help you implement the program [print_joke.py](print_joke.py). Don't spend more than an hour on this step since it's just the first part of the exercise. Ask for help if you get stuck.
 
-Once you've written the program. Add it to git.
+Once you've written the program, add it to git.
 1. cd Exercises/Exercise6-cicd-tools/
 2. git add print_joke.py
 3. git commit -m "create joke file"
@@ -20,27 +19,26 @@ Once you've written the program. Add it to git.
 ## Black
 https://github.com/psf/black
 
-Now you will use black to format the code to the black style.
+Now you will use Black to format the code to the Black style.
 
-1. Install black by following the installation instructions on their website
+1. Install Black by following the installation instructions on their website.
 2. black print_joke.py
 3. git diff print_joke.py
-4. Take note of how it changed your code. Feel free to ask google, chatGPT or the teacher if you don't understand why it changed it like it did.
+4. Take note of how it changed your code. Feel free to ask Google, ChatGPT, or the teacher if you don't understand why it changed it like it did.
 5. git add print_joke.py
-6. git commit -m "black joke file"
+6. git commit -m "format joke file with Black"
 
 ## Isort
 https://github.com/PyCQA/isort 
 
-You will now use isort in the same fashion as black.
+You will now use isort in the same fashion as Black.
 
-1. Install isort by following the installation instructions on their website
+1. Install isort by following the installation instructions on their website.
 2. isort print_joke.py
 3. git diff print_joke.py
-4. Take note of how it changed your code. Feel free to ask google, chatGPT or the teacher if you don't understand why it changed it like it did.
-2. git add print_joke.py
-3. git commit -m "isort joke file"
-
+4. Take note of how it changed your code. Feel free to ask Google, ChatGPT, or the teacher if you don't understand why it changed it like it did.
+5. git add print_joke.py
+6. git commit -m "sort imports in joke file with isort"
 
 ## Pytest
 https://docs.pytest.org/ 
