@@ -21,8 +21,8 @@ The schedule is divided into two parts: pre-summer and post-summer, where the fi
 | [21][w1] | course intro, why data engineering, Linux, data pipelines, docker intro, dockerfile, docker compose, study visit Ericsson |
 | [22][w2] | containers, data engineering lifecycle, code review, ELT, Airflow intro, DAGs, operators, tasks, Xcom, study visit Olsaro |
 | [23][w3] | schedule data ingestion, TaskGroup, SCB API, orchestrate data pipeline,                                                   |
-| [33][w4] | connect to postgres, serve downstream dashboard and ML, sensors, timetable, guest lecture agile theory                    |
-| [34][w5] | **project** start, data version control (DVC), github actions CI/CD, pre-commit                                           |
+| [33][w4] | repetition, guest lecture agile theory, github actions CI/CD, pre-commit, code tests                    |
+| [34][w5] | **project** start, data version control (DVC), postgres database                                           |
 | [35][w6] | **project**, Intro to Azure and deploy a pipeline to Azure.                                                               |
 | [36][w7] | **project**, ethics and data security - guest lecture?                                                                    |
 | [37][w8] | **project** - presentation and report                                                                                     |
