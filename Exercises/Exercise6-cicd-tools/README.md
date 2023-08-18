@@ -1,4 +1,7 @@
 # Exercise  CI/CD Tools
+The purpose of this exercise is to manually use some of the tools which are often run automatically in the Github CI/CD pipeline.
+
+You will need to install some external Python packages for this exercise so it's advised to use a virtual environment e.g. pipenv.
 
 ## Intro
 To practice coding, we will spend some time writing a program that generates random jokes and reactions to the jokes. We will later apply tools like Black and pytest to this program.
